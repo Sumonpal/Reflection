@@ -1,0 +1,15 @@
+F:\file\.Net Code\Reflection\Reflection\bin\Debug\net7.0\Reflection.exe
+F:\file\.Net Code\Reflection\Reflection\bin\Debug\net7.0\Reflection.deps.json
+F:\file\.Net Code\Reflection\Reflection\bin\Debug\net7.0\Reflection.runtimeconfig.json
+F:\file\.Net Code\Reflection\Reflection\bin\Debug\net7.0\Reflection.dll
+F:\file\.Net Code\Reflection\Reflection\bin\Debug\net7.0\Reflection.pdb
+F:\file\.Net Code\Reflection\Reflection\obj\Debug\net7.0\Reflection.csproj.AssemblyReference.cache
+F:\file\.Net Code\Reflection\Reflection\obj\Debug\net7.0\Reflection.GeneratedMSBuildEditorConfig.editorconfig
+F:\file\.Net Code\Reflection\Reflection\obj\Debug\net7.0\Reflection.AssemblyInfoInputs.cache
+F:\file\.Net Code\Reflection\Reflection\obj\Debug\net7.0\Reflection.AssemblyInfo.cs
+F:\file\.Net Code\Reflection\Reflection\obj\Debug\net7.0\Reflection.csproj.CoreCompileInputs.cache
+F:\file\.Net Code\Reflection\Reflection\obj\Debug\net7.0\Reflection.dll
+F:\file\.Net Code\Reflection\Reflection\obj\Debug\net7.0\refint\Reflection.dll
+F:\file\.Net Code\Reflection\Reflection\obj\Debug\net7.0\Reflection.pdb
+F:\file\.Net Code\Reflection\Reflection\obj\Debug\net7.0\Reflection.genruntimeconfig.cache
+F:\file\.Net Code\Reflection\Reflection\obj\Debug\net7.0\ref\Reflection.dll
